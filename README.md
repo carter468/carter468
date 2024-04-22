@@ -1,4 +1,4 @@
-## carter / 카카오클라우드스쿨inJeju
+## carter / Kim Daegeon
 안녕하세요! 🙋‍♂️ 개발자 입니다. 
 <br />
 <br />
@@ -16,9 +16,9 @@
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-<img src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 </div>
 #### I've used it before.
+<div style="display:flex;gap:30px;flex-wrap:wrap;"></div>
 </div>
 <br />
 <br />
