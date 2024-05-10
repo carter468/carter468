@@ -4,7 +4,10 @@
 <br />
 <br />
 ## My values
-😎 꾸준히 발전하는 사람이 되려고 합니다.<br />
+😎 나쁜 습관은 줄이고 좋은 습관만 남기려고 합니다.
+<br />
+새로운 지식을 갈망합니다.
+<br />
 <br />
 <br />
 <br />
@@ -17,6 +20,7 @@
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 </div>
+
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
 </div>
