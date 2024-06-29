@@ -4,22 +4,22 @@
 <br />
 <br />
 ## My values
-👍 Continuous Improvement
+👍 ### Continuous Improvement
 저는 항상 더 나은 개발자가 되기 위해 노력합니다. 새로운 기술을 배우고, 기존의 지식을 확장하며, 항상 발전을 추구합니다.
 
-👍 Collaboration
+👍 ### Collaboration
 팀워크와 협업을 통해 최고의 결과를 도출할 수 있다고 믿습니다. 다른 팀원들과의 소통을 중시하며, 함께 성장하는 것을 목표로 합니다.
 <br />
 <br />
 <br />
 ## How I Work
-😎 Focused Problem Solving
+😎 ### Focused Problem Solving
 저는 복잡한 문제를 해결하는 데 열정을 가지고 있습니다. 코드 디버깅이나 성능 최적화 등 어떤 문제든지 체계적으로 접근하여 해결합니다. 문제를 작은 부분으로 나누어 하나씩 해결하는 방식을 선호합니다.
 
-😎 Continuous Learning
+😎 ### Continuous Learning
 기술 산업은 끊임없이 변화하고 있으며, 저도 그 변화에 발맞춰 나아가고 있습니다. 온라인 강좌, 튜토리얼, 산업 블로그 등을 통해 새로운 언어, 프레임워크, 모범 사례를 배우는 데 시간을 투자합니다. 이를 통해 최신 기술을 습득하고 혁신적인 아이디어를 도입합니다.
 
-😎 Collaboration and Communication
+😎 ### Collaboration and Communication
 프로젝트의 성공을 위해 팀워크가 중요하다고 생각합니다. 명확한 의사소통을 우선시하며, 코드 리뷰에 적극적으로 참여합니다. 협업을 통해 더 나은 결과를 도출할 수 있다고 믿습니다.
 <br />
 <br />
