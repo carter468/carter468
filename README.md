@@ -26,7 +26,7 @@
 <br />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdg870918)](https://solved.ac/kdg870918)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaegeon0918&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carter468&show_icons=true&theme=dracula)
 
 
 ## Skills
